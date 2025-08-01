@@ -43,7 +43,7 @@ Before you run this script, you need to have the following installed:
 
 ---
 
-##📄 Output
+## 📄 Output
 
 * The script prints the total count of commentary entries collected to the console.
 * The collected text can be optionally saved to a CSV file by uncommenting the last two lines of the script.
