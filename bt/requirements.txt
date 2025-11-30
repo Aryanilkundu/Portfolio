@@ -1,8 +1,0 @@
-numpy
-pandas
-scipy
-matplotlib
-hmmlearn
-scikit-learn
-bt
-pyarrow
